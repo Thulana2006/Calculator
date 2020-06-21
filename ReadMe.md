@@ -24,6 +24,17 @@ New Features
 3.Dark UI.
 4.Stick to the BODMAS.
 5.Hundreds of '=' pressings.
+6.Control with the keyboard.
+```
+
+Keyboard Shortcuts
+```
+Win + DownArrow                   = Minimize
+Win + UpArrow                     = Open the minimized application
+1,2,3,4,5,6,7,8,9,0 (Numpad also) = 1,2,3,4,5,6,7,8,9,0 buttons
+/,*,.,-,+,=                       = Operators, Dot and Equal buttons
+<--(Backspace)                    = Backspace
+C                                 = clear
 ```
 Contact me
 -----
