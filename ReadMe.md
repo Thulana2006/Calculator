@@ -7,6 +7,15 @@ Updated Release
 My First Release
   >Run --> Calculator/Release/Calculator.exe
 
+Installation Process
+---
+Minimum Requirments :
+  >HDD Space : 10.4Mb |
+  >Ram       : 1Gb |
+  >.NET Framework 4.5 or HIGHER
+ 
+  >Run --> CalculatorSetup/CalculatorSetup.exe
+
 New Features
 -----
 ```
