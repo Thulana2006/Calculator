@@ -40,4 +40,4 @@ C                                 = clear
 ```
 Contact me
 -----
-```Contact me from``` <a href="www.instagram.com/___thul___/">Instagram</a>, <a href="mailto:thulanabaji@gmail.com">Gmail</a>
+```Contact me from``` <a href="https://www.instagram.com/___thul___/">Instagram</a>, <a href="mailto:thulanabaji@gmail.com">Gmail</a>
