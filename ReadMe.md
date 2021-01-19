@@ -40,4 +40,4 @@ C                                 = clear
 ```
 Do not Contact me
 -----
-```Contact me from``` <a href="https://www.google.com/search?q=instagram">Instagram</a>, <a href="https://mail.google.com">Gmail</a>
+```Contact me from``` <a href="https://www.instagram.com>Instagram</a>, <a href="https://mail.google.com">Gmail</a>
