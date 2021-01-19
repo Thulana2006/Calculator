@@ -38,6 +38,6 @@ Win + UpArrow                     = Open the minimized application
 <--(Backspace)                    = Backspace
 C                                 = clear
 ```
-Contact me
+Do not Contact me
 -----
-```Contact me from``` <a href="https://www.instagram.com/___thul___/">Instagram</a>, <a href="mailto:thulanabaji@gmail.com">Gmail</a>
+```Contact me from``` <a href="https://www.google.com/search?q=instagram">Instagram</a>, <a href="https://mail.google.com">Gmail</a>
